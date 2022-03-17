@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+        <autor>Kenny Erleben</autor>
+        <titulo>Physics-based animation</titulo>
+        <editorial>Charles River Media</editorial>
+        <precio>14.06</precio>
+        <codLibro>4321</codLibro>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <autor>Carlos Garres</autor>
+        <titulo>Principio de seguridad informatica</titulo>
+        <editorial>Charles River Media</editorial>
+        <precio>25.00</precio>
+        <codLibro>3214</codLibro>
+        <numPaginas>110</numPaginas>
+    </libro>
+    <libro>
+        <autor>Alberto Sánchez</autor>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <editorial>Dykinson</editorial>
+        <precio>10.12</precio>
+        <codLibro>1296</codLibro>
+        <numPaginas>100</numPaginas>
+    </libro>
+    <libro>
+        <autor>Juan humberto</autor>
+        <titulo>Ocio</titulo>
+        <editorial>Dykinson</editorial>
+        <precio>8.50</precio>
+        <codLibro>1252</codLibro>
+        <numPaginas>300</numPaginas>
+    </libro>
+    <libro>
+        <autor>Antonio vega</autor>
+        <titulo>Cultura</titulo>
+        <editorial>Anaya</editorial>
+        <precio>9.00</precio>
+        <codLibro>1289</codLibro>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <autor>Antonio vega</autor>
+        <titulo>Cultura</titulo>
+        <editorial>Anaya</editorial>
+        <precio>9.00</precio>
+        <codLibro>1288</codLibro>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <autor>Juan vega</autor>
+        <titulo>Cultura</titulo>
+        <editorial>Anaya</editorial>
+        <precio>12.50</precio>
+        <codLibro>1288</codLibro>
+        <numPaginas>150</numPaginas>
+    </libro>
+    <libro>
+        <autor>Antonio Osorio</autor>
+        <titulo>Cultura</titulo>
+        <editorial>Anaya</editorial>
+        <precio>10.50</precio>
+        <codLibro>1288</codLibro>
+        <numPaginas>150</numPaginas>
+    </libro>
+</libreria>
